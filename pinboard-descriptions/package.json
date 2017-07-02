@@ -1,0 +1,16 @@
+{
+  "name": "pinboard-descriptions",
+  "version": "1.0.0",
+  "description": "Update pinboard link descriptions",
+  "author": "pietvanzoen <hi@pietvanzoen.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless": "^1.16.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "metascraper": "^1.0.6",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4",
+  }
+}
